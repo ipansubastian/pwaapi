@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Prehensile-tailed porcupine","category":"Khaki"},
+{"id":2,"name":"Glossy starling (unidentified)","category":"Crimson"},
+{"id":3,"name":"Common ringtail","category":"Turquoise"},
+{"id":4,"name":"Beaver, north american","category":"Violet"},
+{"id":5,"name":"Cat, long-tailed spotted","category":"Goldenrod"},
+{"id":6,"name":"Sage grouse","category":"Goldenrod"},
+{"id":7,"name":"Hanuman langur","category":"Purple"},
+{"id":8,"name":"Kingfisher, white-throated","category":"Maroon"},
+{"id":9,"name":"Pale white-eye","category":"Puce"},
+{"id":10,"name":"Pine siskin","category":"Turquoise"},
+{"id":11,"name":"Dove, galapagos","category":"Yellow"},
+{"id":12,"name":"Meerkat","category":"Pink"},
+{"id":13,"name":"Scarlet macaw","category":"Red"},
+{"id":14,"name":"Macaque, pig-tailed","category":"Puce"},
+{"id":15,"name":"Crested barbet","category":"Indigo"},
+{"id":16,"name":"Southern lapwing","category":"Teal"},
+{"id":17,"name":"Lizard, mexican beaded","category":"Maroon"},
+{"id":18,"name":"Eastern diamondback rattlesnake","category":"Yellow"},
+{"id":19,"name":"Jackal, black-backed","category":"Aquamarine"},
+{"id":20,"name":"Rhesus monkey","category":"Maroon"}
+]
+}
